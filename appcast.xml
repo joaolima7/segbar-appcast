@@ -3,12 +3,12 @@
   <channel>
     <title>BarragensGeo</title>
     <item>
-      <title>1.7.11</title>
-      <sparkle:version>1.7.11</sparkle:version>
+      <title>1.7.12</title>
+      <sparkle:version>1.7.12</sparkle:version>
       <sparkle:os>android</sparkle:os>
-      <pubDate>2026-06-17</pubDate>
-      <description>update reading dialog input formatter</description>
-      <enclosure sparkle:version="1.7.11" sparkle:os="android" url="https://play.google.com/store/apps/details?id=com.segbar.segbar_mobile" />
+      <pubDate>2026-06-21</pubDate>
+      <description>implements datetime initial and final checklist response</description>
+      <enclosure sparkle:version="1.7.12" sparkle:os="android" url="https://play.google.com/store/apps/details?id=com.segbar.segbar_mobile" />
     </item>
   </channel>
 </rss>
